@@ -1,0 +1,28 @@
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    letter-spacing: 1px;
+    color: orange;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+    color: black;
+}
+
+.smaller {
+    font-size: 0.7em;
+    text-transform: uppercase;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    padding: 100px;
+}
+
